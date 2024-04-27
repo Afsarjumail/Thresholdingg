@@ -77,7 +77,8 @@ for i in range(0,9):
 
 ![326062226-fbd613c5-3cd2-4ea1-98b6-67b4e9d0e835](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/0c6ae68b-6128-481c-b21c-620ff1cacfc2)
 ![326062267-70a39f1d-5c92-4bcf-8052-dc4c8963fba0](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/9268cb3e-ce5b-41eb-a026-a3c99c3a59a5)
-![326062359-1cbef3ec-4ad3-491f-b2f7-402b68f0eb8f](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/2c5466d![326062389-c6ac5f38-3144-40be-b9f0-896326d7caf1]
+![326062359-1cbef3ec-4ad3-491f-b2f7-402b68f0eb8f](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/ae760fd0-9024-49f6-9801-9c925e17cae9)
+
 ![326062389-c6ac5f38-3144-40be-b9f0-896326d7caf1](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/f6a9457d-fa99-442e-85aa-1ab121a38081)
 ![326062424-a6f12774-9d33-407a-9e3e-87616b0827d2](https://github.com/Afsarjumail/Thresholdingg/assets/118343395/f93fdfd0-c9ff-4b63-b7d9-33c84e97102e)
 
